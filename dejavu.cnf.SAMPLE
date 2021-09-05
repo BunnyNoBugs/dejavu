@@ -1,9 +1,9 @@
 {
     "database": {
-        "host": "db",
-        "user": "postgres",
+        "host": "127.0.0.1",
+        "user": "root",
         "password": "password",
         "database": "dejavu"
     },
-    "database_type": "postgres"
+    "database_type": "mysql"
 }
